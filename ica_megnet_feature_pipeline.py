@@ -25,7 +25,7 @@ from pathlib import Path
 # USER INPUT
 # ===============================
 
-RAW_FILE = Path("your_file_meg.fif")   # <-- change to your file
+RAW_FILE = Path("")   
 N_ICA = 30
 LOW_FREQ = 1.0
 HIGH_FREQ = 40.0
